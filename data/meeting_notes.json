@@ -1,0 +1,18 @@
+{
+    "summary": "The meeting discussed the upcoming website launch, confirming that development is nearly complete and setting the official launch date.",
+    "decisions": [
+        "The website will be launched on Monday."
+    ],
+    "action_items": [
+        {
+            "task": "Send the revised deny",
+            "owner": "Priya",
+            "due_date": "Friday"
+        },
+        {
+            "task": "Test the website",
+            "owner": "Rahul",
+            "due_date": ""
+        }
+    ]
+}

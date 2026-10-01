@@ -1,0 +1,18 @@
+MEETING NOTES
+========================================
+
+Summary:
+The meeting discussed the upcoming website launch, confirming that development is nearly complete and setting the official launch date.
+
+Decisions:
+- The website will be launched on Monday.
+
+Action Items:
+
+1. Send the revised deny
+   Owner: Priya
+   Due Date: Friday
+
+2. Test the website
+   Owner: Rahul
+   Due Date: 
